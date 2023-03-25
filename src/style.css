@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+@import url("https://fonts.cdnfonts.com/css/games?styles=17672,17671");
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+
+@font-face {
+  font-family: "Minecrafter.Alt";
+  font-style: normal;
+  font-weight: normal;
+  src: url("./fonts/Minecrafter.Alt.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Minecrafter.Reg";
+  font-style: normal;
+  font-weight: normal;
+  src: url("./fonts/Minecrafter.Reg.woff") format("woff");
+}
+
+:root {
+  --jazzberry-jam: #635b5f;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+
